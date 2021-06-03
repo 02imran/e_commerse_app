@@ -1,4 +1,5 @@
 import 'package:e_commerce_app/componants/default_button.dart';
+import 'package:e_commerce_app/screen/home/home_screen.dart';
 import 'package:e_commerce_app/size_config.dart';
 import 'package:flutter/material.dart';
 
@@ -29,7 +30,9 @@ class LoginSuccessBody extends StatelessWidget {
         SizedBox(
           width: SizeConfig.screenWidth * 0.6,
           child: DefaultButton(
-            press: () {},
+            press: () {
+              Navigator.pushNamed(context, HomeScreen.routeName);
+            },
             text: 'Home',
           ),
         ),
