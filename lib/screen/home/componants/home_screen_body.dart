@@ -1,11 +1,10 @@
 import 'package:e_commerce_app/size_config.dart';
 import 'package:flutter/material.dart';
-
-
 import 'categories.dart';
 import 'discount_banner.dart';
 import 'home_header.dart';
-import 'section_title.dart';
+import 'popular_products.dart';
+import 'spation_offer.dart';
 
 class HomeScreenBody extends StatelessWidget {
   @override
@@ -21,15 +20,12 @@ class HomeScreenBody extends StatelessWidget {
             SizedBox(height: getProportionateScreenHeight(20)),
             Categoris(),
             SizedBox(height: getProportionateScreenHeight(20)),
-            SectionTitle(
-              
-              text: 'Spatiol for you',
-              press: () {},
-            )
+            SpatialOffers(),
+            SizedBox(height: getProportionateScreenHeight(20)),
+            PopularProduct()
           ],
         ),
       ),
     );
   }
 }
-
