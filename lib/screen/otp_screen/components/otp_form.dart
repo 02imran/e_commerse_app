@@ -1,6 +1,6 @@
 
 
-import 'package:e_commerce_app/componants/default_button.dart';
+import 'package:e_commerce_app/components/default_button.dart';
 import 'package:flutter/material.dart';
 
 import '../../../constants.dart';

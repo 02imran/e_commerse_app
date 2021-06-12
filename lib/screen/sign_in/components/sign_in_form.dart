@@ -1,6 +1,6 @@
-import 'package:e_commerce_app/componants/custom_suffix_icon.dart';
-import 'package:e_commerce_app/componants/default_button.dart';
-import 'package:e_commerce_app/componants/form_error.dart';
+import 'package:e_commerce_app/components/custom_suffix_icon.dart';
+import 'package:e_commerce_app/components/default_button.dart';
+import 'package:e_commerce_app/components/form_error.dart';
 import 'package:e_commerce_app/screen/forgot_password/forgot_password.dart';
 import 'package:e_commerce_app/screen/login_success/login_success_screen.dart';
 import 'package:e_commerce_app/size_config.dart';

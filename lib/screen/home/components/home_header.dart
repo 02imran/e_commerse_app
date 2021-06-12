@@ -1,6 +1,6 @@
 
 
-import 'package:e_commerce_app/screen/home/componants/search_field.dart';
+import 'package:e_commerce_app/screen/home/components/search_field.dart';
 import 'package:flutter/material.dart';
 
 import '../../../size_config.dart';

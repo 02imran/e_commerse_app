@@ -1,4 +1,4 @@
-import 'package:e_commerce_app/componants/default_button.dart';
+import 'package:e_commerce_app/components/default_button.dart';
 import 'package:e_commerce_app/screen/home/home_screen.dart';
 import 'package:e_commerce_app/size_config.dart';
 import 'package:flutter/material.dart';

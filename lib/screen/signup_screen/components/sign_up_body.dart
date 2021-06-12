@@ -1,7 +1,7 @@
 
-import 'package:e_commerce_app/componants/social_carl.dart';
+import 'package:e_commerce_app/components/social_carl.dart';
 import 'package:e_commerce_app/constants.dart';
-import 'package:e_commerce_app/screen/signup_screen/componants/sign_up_form.dart';
+import 'package:e_commerce_app/screen/signup_screen/components/sign_up_form.dart';
 import 'package:e_commerce_app/size_config.dart';
 
 import 'package:flutter/material.dart';

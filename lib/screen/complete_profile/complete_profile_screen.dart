@@ -1,4 +1,4 @@
-import 'package:e_commerce_app/screen/complete_profile/componants/profile_body.dart';
+import 'package:e_commerce_app/screen/complete_profile/components/profile_body.dart';
 import 'package:flutter/material.dart';
 
 class CompleteProfileScreen extends StatelessWidget {

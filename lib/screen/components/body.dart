@@ -1,11 +1,11 @@
 import 'package:e_commerce_app/constants.dart';
-import 'package:e_commerce_app/screen/componants/SplashContant.dart';
+import 'package:e_commerce_app/screen/components/SplashContant.dart';
 import 'package:e_commerce_app/screen/sign_in/sign_in_screen.dart';
 import 'package:e_commerce_app/size_config.dart';
 import 'package:flutter/material.dart';
 
 // This is the best practice
-import '../../../componants/default_button.dart';
+import '../../../components/default_button.dart';
 
 class Body extends StatefulWidget {
   @override

@@ -1,4 +1,4 @@
-import 'dart:js';
+
 
 import 'package:e_commerce_app/screen/complete_profile/complete_profile_screen.dart';
 import 'package:e_commerce_app/screen/details/details_screen.dart';

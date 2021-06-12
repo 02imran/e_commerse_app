@@ -1,4 +1,4 @@
-import 'package:e_commerce_app/screen/sign_in/componants/sign_in_body.dart';
+import 'package:e_commerce_app/screen/sign_in/components/sign_in_body.dart';
 import 'package:flutter/material.dart';
 
 
